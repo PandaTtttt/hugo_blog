@@ -23,6 +23,7 @@ theme = "LeaveIt"
     url = "/about/"
     weight = 4
 [params.social]
+    author = "PandaTtttt"
     GitHub = "xxoo"
     Twitter = "xxoo"
     Email   = "xxoo"
