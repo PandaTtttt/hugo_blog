@@ -1,8 +1,9 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://loloo.xyz/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 title = "PandaTtttt 的博客"
+relativeurls = true
 #title = "PandaTtttt Blog"
 #theme = "LeaveIt"
 [menu]
