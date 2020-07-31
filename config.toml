@@ -1,4 +1,4 @@
-baseURL = "https://loloo.xyz/"
+#baseURL = "https://loloo.xyz/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
