@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "http://localhost:1313/"
+languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 title = "PandaTtttt 的博客"
@@ -10,10 +10,7 @@ title = "PandaTtttt 的博客"
     name = "Blog"
     url = "/post/"
     weight = 1
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 2
+
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
