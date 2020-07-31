@@ -4,7 +4,7 @@ defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = true
 title = "PandaTtttt 的博客"
 #title = "PandaTtttt Blog"
-theme = "LeaveIt"
+#theme = "LeaveIt"
 [menu]
   [[menu.main]]
     name = "Blog"
